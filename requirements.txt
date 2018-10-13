@@ -1,0 +1,7 @@
+jupyter
+pandas 
+tabula-py
+requests
+altair
+requests-html
+html5lib

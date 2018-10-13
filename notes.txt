@@ -1,0 +1,13 @@
+
+docker build -t catherinedevlin/wild-data .
+
+sudo docker run -p 8888:8888 
+
+Dockerfile to make image
+
+docker save image to tarfile
+https://docs.docker.com/engine/reference/commandline/save/
+
+
+
+
