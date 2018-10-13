@@ -1,0 +1,12 @@
+
+# sudo docker build -t wild-data .
+
+sudo docker load -i wild-data.tar
+
+# pip download -r requirements.txt -d ../dl/localpypi/
+
+pip install --no-index --find-links localpypi/ -r harvest-wild-data-olf-2018/requirements.txt
+
+
+
+
